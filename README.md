@@ -17,7 +17,7 @@ Notebook de análise de dados de partidas de futebol, desenvolvido como atividad
 3. Instale as bibliotecas usadas no notebook: `pandas`, `numpy`, `matplotlib`, `seaborn`, `requests`, `beautifulsoup4`, `plotly` e `dash`.
 4. Execute as células em ordem. Caso a primeira célula que utiliza `np` apresente erro, execute `import numpy as np` antes dela.
 
-Algumas células dependem de serviços externos, dados disponíveis e compatibilidade de versões das bibliotecas. O notebook contém uma chave de API no código; ela deve ser revogada ou rotacionada caso ainda esteja ativa, e substituída por uma configuração privada antes do uso.
+Algumas células dependem de serviços externos, dados disponíveis e compatibilidade de versões das bibliotecas.
 
 ## Arquivo principal
 
